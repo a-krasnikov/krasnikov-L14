@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="rv_item_person_height">64dp</dimen>
+    <dimen name="rv_item_person_padding">16dp</dimen>
+
+</resources>

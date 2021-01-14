@@ -1,7 +1,8 @@
-package krasnikov.project.familytree
+package krasnikov.project.familytree.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import krasnikov.project.familytree.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
